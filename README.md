@@ -34,8 +34,8 @@ A collection of hands-on **Natural Language Processing (NLP)** exercises, tutori
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/Hiremorshadul/NLP-Excicises.git
-cd NLP-Excicises
+git clone https://github.com/Hiremorshadul/NLP-Exercises.git 
+cd NLP-Exercises
 
 ###📜 License
 
